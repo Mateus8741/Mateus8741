@@ -29,6 +29,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=merko)](https://github.com/Matt8741/)
+[![iuricode](https://github-readme-stats.vercel.app/api?username=Matt8741&theme=merko)](https://github.com/Matt8741/)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=merko)](https://github.com/Matt8741/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Matt8741&hide=html&layout=compact&theme=merko)](https://github.com/Matt8741/)
