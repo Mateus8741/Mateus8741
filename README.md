@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Mateus Tavares, tenho 23 anos, cuuso Sistemas de Informação.<br><strong style='font-width:bold; color: black;'>Sou Developer Front-end, Desiner Gráfico</strong>.<br>
+  Me chamo Mateus Tavares, tenho 23 anos, cuuso Sistemas de Informação.<br><strong style='font-width:900;'>Sou Developer Front-end, Desiner Gráfico</strong>.<br>
   Atualmente trabalho como Designer e crio projemos aleatórios para expansão do meu conhecimento e aumentando meu portifólio.
 </p>
 
