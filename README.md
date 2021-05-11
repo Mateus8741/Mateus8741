@@ -22,14 +22,16 @@
   ## 🌐 DevOps
   <a href="#">
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)</a>
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+</a>
 </p>
 <p align="left">
   
   ## 💼 Ferramentas: 
   <a href="#">
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)</a>
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+</a>
 </p>
 
 <p align="left">
