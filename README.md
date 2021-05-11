@@ -31,7 +31,7 @@
 <p align="left">
   
   ## 💌 Dúvidas? Ajuda? Dicas? Parceiria?
-  Se você deseja realizar um projeto comigo(ou bater papo), ou até mesmo tirar dúvidas ou pedir dicas, não hesite em me enviar uma mensagem: ⤵️
+  Se você deseja realizar um projeto comigo(ou bater papo), tirar dúvidas, pedir dicas, não hesite em me enviar uma mensagem: ⤵️
 </p>
 
 <p align="left">
