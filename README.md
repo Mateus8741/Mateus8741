@@ -4,7 +4,7 @@
 <p align="left"> 
   
   ## 💬 Quem sou eu?<br>
-  Me chamo Mateus Tavares, tenho 23 anos, curso Sistemas de Informação.<br><br>
+  Me chamo Mateus Tavares, tenho 23 anos, curso Sistemas de Informação(UniFap).<br><br>
   Sou <strong>Developer Front-end, UI/UX-Design, Designer Gráfico</strong>.<br><br>
   Atualmente trabalho como Designer e crio projetos aleatórios para expansão do meu conhecimento e portifólio.
 </p>
