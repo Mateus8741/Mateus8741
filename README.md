@@ -48,7 +48,7 @@
 
 <p align="left">
   
-  ## 💌 Dúvidas? Ajuda? Dicas? Parceiria?
+  ## 💌 Dúvidas? Ajuda? Dicas? Parceria?
   Se você deseja realizar um projeto comigo(ou bater papo), tirar dúvidas, pedir dicas, não hesite em me enviar uma mensagem: ⤵️
 </p>
 
